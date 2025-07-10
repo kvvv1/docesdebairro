@@ -28,7 +28,7 @@ const Products = () => {
         "Brigadeiro de Café",
         "Brigadeiro Vegano"
       ],
-      image: "https://images.pexels.com/photos/4110104/pexels-photo-4110104.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "https://harald.com.br/wp-content/uploads/2020/04/briadeirogormet-melken-700x520-1.jpg",
       price: "R$ 3,50 cada"
     },
     {
@@ -42,7 +42,7 @@ const Products = () => {
         "Trufas de Chocolate",
         "Caixas Personalizadas"
       ],
-      image: "https://images.pexels.com/photos/6186810/pexels-photo-6186810.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "https://littlesfestas.com.br/wp-content/uploads/2024/03/459f2b5c-285a-4719-8362-6b25330dfc2f.jpg",
       price: "A partir de R$ 25,00"
     }
   ];
